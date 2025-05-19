@@ -1,1 +1,5 @@
 # Kolorowy-Chaos
+
+Gracz klikając klawisze "Z" i "X" steruje kolorem kulki. 
+Należy dopasować kolor do zmierzających w jego stronę kulek aby zdobywać punkty.
+Zły kolor = utracone życie.
